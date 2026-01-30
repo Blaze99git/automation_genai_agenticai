@@ -1,0 +1,15 @@
+openai
+google-generativeai
+python-dotenv
+
+pyautogen
+autogen-agentchat
+
+moviepy
+ffmpeg-python
+pydub
+Pillow
+
+pydantic
+rich
+loguru

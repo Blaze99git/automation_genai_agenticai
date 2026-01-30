@@ -32,4 +32,4 @@ See folder layout inside the repository.
 - Open-source first
 
 ## Status
-🚧 In active development
+🚧 In active development soon to be completed

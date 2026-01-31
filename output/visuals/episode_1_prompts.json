@@ -1,0 +1,46 @@
+{
+  "episode": 1,
+  "style": "Mysterious and suspenseful, with a focus on cosmic elements and technological ambiance.",
+  "prompts": [
+    {
+      "id": 1,
+      "description": "A wide-paneled observatory window overlooking a star-filled night sky, with shimmering stars reflecting off the glass, while soft fog from a breath creates a dreamy effect."
+    },
+    {
+      "id": 2,
+      "description": "A dimly lit observatory interior filled with an array of glowing monitors casting cold blue light, surrounded by charts and graphs that hint at cosmic data, accompanied by a faint hum of machinery."
+    },
+    {
+      "id": 3,
+      "description": "A close-up shot of a keyboard with fingers poised over the keys, illuminated by the blue glow of the monitors, conveying urgency and focus amidst a sea of complex data visualizations."
+    },
+    {
+      "id": 4,
+      "description": "An abstract visualization of a signal wave pattern, pulsating and shimmering in a dark void, representing a mysterious echo from the depths of space, with hints of vibrant colors indicating energy."
+    },
+    {
+      "id": 5,
+      "description": "A vast, dark expanse of space, with a distant, uncharted planet glowing softly under the light of a nearby star, evoking a sense of wonder and the unknown."
+    },
+    {
+      "id": 6,
+      "description": "An isolated observatory silhouette against a night sky, with the Milky Way stretching overhead, creating an atmosphere of solitude and anticipation as Lena waits for her mentor."
+    },
+    {
+      "id": 7,
+      "description": "A close-up of a monitor displaying the coordinates of a distant star system, glowing ominously in the dark, surrounded by flickering lights that suggests mystery and potential danger."
+    },
+    {
+      "id": 8,
+      "description": "A dynamic shot of a conference room filled with diverse scientists and engineers gathered around a table, their faces illuminated by the glow of a central holographic projection of the signal, embodying excitement and trepidation."
+    },
+    {
+      "id": 9,
+      "description": "A serene, contemplative image of a bed with rumpled sheets in a darkened room, moonlight streaming through a window, symbolizing Lena's restless thoughts and the weight of her discovery."
+    },
+    {
+      "id": 10,
+      "description": "A mesmerizing view of swirling galaxies and distant stars, with a soft focus to convey dreams and possibilities, hinting at the vast journey awaiting Lena and her team."
+    }
+  ]
+}

@@ -32,4 +32,4 @@ See folder layout inside the repository.
 - Open-source first
 
 ## Status
-🚧 In active development soon to be completed
+🚧 Completed as it now Generates the scripts, naration uses Images and give a complete pusblish ready video
